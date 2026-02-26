@@ -1,0 +1,6 @@
+GitHub Document Versioning
+- What is version control?
+- Our documents: Report, Budget, Presentation
+- How we used GitHub
+- Demonstration: Commits, History, Revert
+- Office applications
